@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.claude/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+
+# keep resumes (phone/email) out of the public repo
+*.pdf
